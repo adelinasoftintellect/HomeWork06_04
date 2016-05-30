@@ -4,7 +4,7 @@ class Store {
 	private String product;
 	private String unavailable;
 
-	public String getProduct() {
+	public String getProduct()  {
 		return product;
 	}
 
